@@ -1,6 +1,10 @@
 # fortune-cookie-generator
 
-Random fortune cookie generator using HTML, CSS, and JavaScript!
+Random fortune cookie generator using HTML, CSS, and JavaScript.
 
 ## Demo
-<img width="300" height="200" src="![Fortunecookiedemo](https://github.com/user-attachments/assets/12ef3b96-9273-439d-9b26-c7a76c0d4fdb)"/>
+<p align="center">
+  <img width="350" height="210" src="Fortunecookiedemo.gif"/>
+</p>
+
+Adding fortunes that I get along the way!
